@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Macarrones con tomate y atún",
+    "tipo": "Almuerzo",
+    "tiempo": 20,
+    "ingredientes": [ "Macarrones", "Salsa de tomate", "Queso rallado", "Lata de atún", "Sal" ],
+    "etiquetas": [ "Rápido", "Tupper", "Pasta" ]
+  },
+  {
+    "id": 2,
+    "nombre": "Tostadas con aceite y jamón",
+    "tipo": "Desayuno",
+    "tiempo": 10,
+    "ingredientes": [ "Pan de molde", "Aceite de oliva", "Jamón" ],
+    "etiquetas": [ "Rápido" ]
+  }
+]
