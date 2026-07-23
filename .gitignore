@@ -1,0 +1,13 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Configuraciones locales de Visual Studio
+.vscode/
+.vs/
+*.suo
